@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 
 [![Spotify](https://novatorem.adryinkcartridge.vercel.app/api/spotify)](https://open.spotify.com/user/dc1uq0mslibvvhdiij0wh8w1s)
 
+### Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Astronaut-Git)](https://github.com/Astronaut-git/github-readme-stats)
+
