@@ -25,15 +25,11 @@ Here are some ideas to get you started:
 
 - 💻 Student at Dian Nuswantoro University
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.adryinkcartridge.vercel.app/api/spotify)](https://open.spotify.com/user/dc1uq0mslibvvhdiij0wh8w1s)
-
-### Stats
+## Stats Right Now!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Astronaut-Git&show_icons=true&theme=radical)](https://github.com/Astronaut-git/github-readme-stats)
 
-### Stats
+### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astronaut-Git&layout=compact)](https://github.com/Astronaut-Git/github-readme-stats)
 
