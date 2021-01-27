@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align='center'>
 
   <a href="https://www.instagram.com/aryada26">
-    <img src="<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />       
   </a>
   
 </p>
