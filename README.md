@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋👋👋 Hello, I'm Arya Dwi Aditiya
+
+<p align='center'>
+
+  <a href="https://www.instagram.com/aryada26">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>
+  
+</p>
+
+- 💻 Student at Dian Nuswantoro University
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.adryinkcartridge.vercel.app/api/spotify)](https://open.spotify.com/user/dc1uq0mslibvvhdiij0wh8w1s)
+
