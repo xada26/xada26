@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 ### Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Astronaut-Git)](https://github.com/Astronaut-git/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Astronaut-Git&show_icons=true&theme=radical)](https://github.com/Astronaut-git/github-readme-stats)
 
