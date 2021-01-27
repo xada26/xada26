@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align='center'>
 
   <a href="https://www.instagram.com/aryada26">
-    <img src="https://www.flaticon.com/authors/pixel-perfect" />        
+    <img src="<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>" />        
   </a>
   
 </p>
