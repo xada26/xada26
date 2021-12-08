@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ## 📈 Stats Right Now!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Astronaut-Git&show_icons=true&theme=radical)](https://github.com/Astronaut-git/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aryaada&show_icons=true&theme=radical)](https://github.com/aryaada/github-readme-stats)
 
 ### 👨‍💻 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astronaut-Git&layout=compact)](https://github.com/Astronaut-Git/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaada&layout=compact)](https://github.com/aryaada/github-readme-stats)
 
